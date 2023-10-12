@@ -1,0 +1,6 @@
+Systick.c:22:6:SysTick_Handler	8	static
+Systick.c:37:6:MCAL_Systick_SetCallBack	16	static
+Systick.c:48:6:MCAL_Systick_Init	4	static
+Systick.c:63:6:MCAL_Systick_Start	16	static
+Systick.c:82:6:MCAL_Systick_INTStatus	16	static
+Systick.c:96:7:MCAL_Systick_ReadFlag	4	static

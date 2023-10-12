@@ -1,0 +1,7 @@
+GPIO.c:26:6:MCAL_GPIO_setupPinDirection	16	static
+GPIO.c:77:6:MCAL_GPIO_WritePin	16	static
+GPIO.c:115:7:MCAL_GPIO_ReadPin	24	static
+GPIO.c:143:6:MCAL_GPIO_SetupPortDirection	16	static
+GPIO.c:180:6:MCAL_GPIO_WritePort	16	static
+GPIO.c:219:8:MCAL_GPIO_ReadPort	24	static
+GPIO.c:256:6:MCAL_GPIO_TogglePin	16	static

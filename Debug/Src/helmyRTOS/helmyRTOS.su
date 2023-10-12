@@ -1,0 +1,6 @@
+helmyRTOS.c:23:6:helmyRTOS_Start	8	static
+helmyRTOS.c:40:6:helmyRTOS_CreateTask	24	static
+helmyRTOS.c:58:6:helmyRTOS_SuspendTask	16	static
+helmyRTOS.c:67:6:helmyRTOS_ResumeTask	16	static
+helmyRTOS.c:76:6:helmyRTOS_DeleteTask	16	static
+helmyRTOS.c:83:6:helmyRTOS_Scheduler	16	static

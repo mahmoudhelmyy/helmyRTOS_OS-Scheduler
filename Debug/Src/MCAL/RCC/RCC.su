@@ -1,0 +1,3 @@
+RCC.c:21:6:MCAL_RCC_Init	16	static
+RCC.c:157:6:MCAL_RCC_EnablePeripheralClock	16	static
+RCC.c:172:6:MCAL_RCC_DisablePeripheralClock	16	static

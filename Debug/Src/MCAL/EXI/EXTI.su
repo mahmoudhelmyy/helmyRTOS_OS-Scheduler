@@ -1,0 +1,12 @@
+EXTI.c:19:6:MCAL_EXTI_Init	16	static
+EXTI.c:40:6:MCAL_EXTI_Enable	16	static
+EXTI.c:45:6:MCAL_EXTI_Disable	16	static
+EXTI.c:50:6:MCAL_EXTI_SoftWareTrigger	16	static
+EXTI.c:55:6:MCAL_EXTI_SetCallBack	16	static
+EXTI.c:62:6:EXTI0_IRQHandler	8	static
+EXTI.c:72:6:EXTI1_IRQHandler	8	static
+EXTI.c:82:6:EXTI2_IRQHandler	8	static
+EXTI.c:92:6:EXTI3_IRQHandler	8	static
+EXTI.c:102:6:EXTI4_IRQHandler	8	static
+EXTI.c:112:6:EXTI9_5_IRQHandler	16	static
+EXTI.c:126:6:EXTI15_10_IRQHandler	16	static
