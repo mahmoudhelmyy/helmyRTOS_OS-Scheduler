@@ -32,6 +32,10 @@ helmyOS is a lightweight and simple Real-Time Operating System (RTOS) designed f
     ```bash
     helmyRTOS_CreateTask(Priority, Periodicity, TaskFunction, FirstDelay);
     ```
+## Example
+![image](https://github.com/mahmoudhelmyy/helmyRTOS_OS-Scheduler/assets/52659572/14c72dde-05e1-491f-b14c-f92a0f3b7c7e)
+![image](https://github.com/mahmoudhelmyy/helmyRTOS_OS-Scheduler/assets/52659572/aee38b7c-48bf-4201-9f8f-3183292c96bc)
+
 
 4. Implement your task functions:
     ```bash
