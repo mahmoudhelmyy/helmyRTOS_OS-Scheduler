@@ -22,7 +22,7 @@ helmyOS is a lightweight and simple Real-Time Operating System (RTOS) designed f
 1. Clone this repository to your development environment.
 
    ```bash
-   git clone https://github.com/yourusername/helmyOS-RTOS.git
+   git clone https://github.com/mahmoudhelmyy/helmyOS-RTOS.git
    ```
 2. Initialize and start the RTOS:
     ```bash
